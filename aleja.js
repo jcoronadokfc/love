@@ -1,15 +1,16 @@
 
+let cantidadVecesQuerer = 0;
 
 function mensajes() {
 
 
     swal.fire(
-        'no hay porque hacerlo, realmente la quiero',
-        'simplemente quiero hacerla feliz ',
+        'esto lo hago con mucho cariño espero que lo disfrutes'
     ).then(() => {
         window.location.href = "../Aleja/aleja2.html";
     })
 }
+
 
 
 
